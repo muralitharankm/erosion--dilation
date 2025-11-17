@@ -1,6 +1,6 @@
 # Exp-9-Implementation-of-Erosion-and-Dilation
-## Name : KAMESH RR
-## Reg No : 212223230095
+## Name : MURALITHARAN K M
+## Reg No : 212223040121
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required
